@@ -1,0 +1,5 @@
+A GUI fro personal Budgets.
+
+
+This GUI takes income, and divides it over utilities, car, and food. A basic budget. It takes the income, and determines how much money
+you have left, as well as taking percentages of the money you've spent on. 
