@@ -2,7 +2,7 @@ import wx
 from wx.lib.masked.numctrl import NumCtrl
 import networkx as nx
 
-from jumps import build_network
+
 
 BACKGROUNDCOLOR = (240, 240, 240, 255)
 
